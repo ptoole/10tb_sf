@@ -1,6 +1,6 @@
 version: 1
 packages:
     - name: shared
-      url: https://github.com/stephenberg2/hub-10tb
+      url: https://github.com/ptoole/hub-10tb
       branch: production
       version: 'commit:459b046ecfe39e31ad2c971b7395a78ed41fea5f'
